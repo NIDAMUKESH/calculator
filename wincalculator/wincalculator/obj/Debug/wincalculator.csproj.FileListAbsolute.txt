@@ -1,0 +1,13 @@
+E:\visual programming\Calculator\wincalculator\wincalculator\bin\Debug\wincalculator.exe.config
+E:\visual programming\Calculator\wincalculator\wincalculator\bin\Debug\wincalculator.exe
+E:\visual programming\Calculator\wincalculator\wincalculator\bin\Debug\wincalculator.pdb
+E:\visual programming\Calculator\wincalculator\wincalculator\obj\Debug\wincalculator.csproj.AssemblyReference.cache
+E:\visual programming\Calculator\wincalculator\wincalculator\obj\Debug\wincalculator.csproj.SuggestedBindingRedirects.cache
+E:\visual programming\Calculator\wincalculator\wincalculator\obj\Debug\wincalculator.Form1.resources
+E:\visual programming\Calculator\wincalculator\wincalculator\obj\Debug\wincalculator.Properties.Resources.resources
+E:\visual programming\Calculator\wincalculator\wincalculator\obj\Debug\wincalculator.csproj.GenerateResource.cache
+E:\visual programming\Calculator\wincalculator\wincalculator\obj\Debug\wincalculator.csproj.CoreCompileInputs.cache
+E:\visual programming\Calculator\wincalculator\wincalculator\obj\Debug\wincalculator.exe
+E:\visual programming\Calculator\wincalculator\wincalculator\obj\Debug\wincalculator.pdb
+E:\visual programming\Calculator\wincalculator\wincalculator\bin\Debug\IrisSkin2.dll
+E:\visual programming\Calculator\wincalculator\wincalculator\obj\Debug\wincalculator.csproj.CopyComplete
